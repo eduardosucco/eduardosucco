@@ -28,7 +28,7 @@ Minha atuação envolve o desenvolvimento de pipelines de dados eficientes, mode
 ---
 
 ## 📬 Contato
-- **📧 Email**: [eduardo.succo@example.com](mailto:eduardo.succo@gmail.com)  
+- **📧 Email**: [eduardo.succo@gmail.com](mailto:eduardo.succo@gmail.com)  
 - **💼 LinkedIn**: [linkedin.com/in/eduardosucco](https://linkedin.com/in/eduardosucco)  
 - **🐙 GitHub**: [github.com/eduardosucco](https://github.com/eduardosucco)  
 
